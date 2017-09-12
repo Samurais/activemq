@@ -1,2 +1,7 @@
 src/
 *.pyc
+*.swp
+*.swo
+*.pyc
+__pycache__
+.vscode

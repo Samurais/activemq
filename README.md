@@ -24,7 +24,10 @@
 
 # Introduction
 
-Dockerfile to build a ActiveMQ container image.
+https://github.com/Samurais/docker-activemq
+
+* Dockerfile to build a ActiveMQ container image.
+* Scripts to launch a ActiveMQ rapidly.
 
 ## Version
 
@@ -126,6 +129,8 @@ docker run --name='activemq' -it --rm -P \
 webcenter/activemq:latest
 ```
 The account admin is "admin" and password is "admin". All settings is the default ActiveMQ's settings.
+
+Or just use ```scripts/start-container.sh```.
 
 - **For production purpose :**
 
