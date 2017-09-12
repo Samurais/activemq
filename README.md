@@ -131,6 +131,7 @@ webcenter/activemq:latest
 The account admin is "admin" and password is "admin". All settings is the default ActiveMQ's settings.
 
 Or just use ```scripts/start-container.sh```.
+Open http://localhost:8161/ with admin:admin for management.
 
 - **For production purpose :**
 
